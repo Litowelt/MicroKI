@@ -20,6 +20,7 @@ Externe Sensor-Eingänge:
 - 1x Öltemperatur Sensor (VDO)
 - 1x Wassertemperatur Sensor (VDO)
 - 1x Ladedruck (400kPa Drucksensor auf der Platine integriert)
+- 1x Außentemperatur Sensor NTC
   
 Steuerung und Umschaltung:
 
