@@ -27,9 +27,21 @@ Steuerung und Umschaltung:
 - Alle 6 Anzeigen können separat angesteuert werden.
 - Die Umschaltung zwischen den Anzeigen und die Steuerung erfolgen entweder über die Buttons auf der Platine oder über externe Buttons.
 
-# Unterstütze Fahrzeuge (CAN-BUS)
+# Unterstütze Fahrzeuge und Nachrichten
 
-- T5.1 
+- VW T5.1
+  - Öl Temperatur (wenn der Sensor verbaut ist) - ✓
+  - Kühlwasser Temperatur - ✓
+  - Ladeluft Temperatur - ✓
+  - Außentemperatur (wenn der Sensor verbaut ist) - ✓
+  - Ladedruck - ✓
+ 
+- Universal (Analoge Eingänge)
+  - Öl Temperatur - X
+  - Kühlwasser Temperatur - X
+  - Außentemperatur - X
+  - Öldruck - X
+  - Ladedruck - X
  
 # ToDo
 - Code fertig schreiben.
