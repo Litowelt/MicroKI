@@ -44,6 +44,9 @@ Steuerung und Umschaltung:
   - Ladedruck - X
  
 # ToDo
-- Code fertig schreiben.
+- Code fertig schreiben. - in Arbeit
 - Prototypen V2 bauen (Bauteile und Platinen sind bestellt).
-- CAN Nachrichten für T5.2 heraus finden.
+- CAN Nachrichten für T5.2 heraus finden. - Müssen nur noch final getestet werden
+- CAN Support für Haltech ECU hinzufügen - in Arbeit
+- CAN Support für Ecumaster EMU ECU hinzufügen - in Arbeit
+- CAN Support für Maxx ECU hinzufügen - in Arbeit
