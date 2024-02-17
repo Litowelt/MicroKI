@@ -1,4 +1,0 @@
-(sym_lib_table
-  (version 7)
-  (lib (name "MicroKi_Library")(type "KiCad")(uri "${KIPRJMOD}/MicroKi_Library.kicad_sym")(options "")(descr ""))
-)
