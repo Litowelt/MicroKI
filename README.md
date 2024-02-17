@@ -1,4 +1,4 @@
-![HierSollteEigentlichEinFotoSein...](https://abload.de/img/microki3tded.jpg)
+![HierSollteEigentlichEinFotoSein...](https://github.com/Litowelt/MicroKI/blob/main/MicroKI.png)
 
 # MicroKI
 
