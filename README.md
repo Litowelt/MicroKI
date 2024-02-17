@@ -2,7 +2,7 @@
 
 # MicroKI
 
-Das "MicroKI" ist ein Projekt, das sich mit digitalen Zusatzanzeigen befasst. Das MicroKI ermöglicht den Anschluss von bis zu 6 Zusatzanzeigen (0.96" OLED LCDs) an ein System. Die Daten für diese Anzeigen können entweder über den CAN-Bus (1x) oder über externe Sensor-Eingänge bezogen werden. Es stehen verschiedene externe Sensor-Eingänge zur Verfügung, darunter Batterie Spannung, Öldruck, Öltemperatur, Wassertemperatur und Ladedruck. Jede der 6 Anzeigen kann separat angesteuert werden und die Daten können über Tasten auf der Platine oder externe Tasten umgeschaltet werden.
+Das "MicroKI" ist ein Projekt, das sich mit digitalen Zusatzanzeigen befasst. Das MicroKI ermöglicht den Anschluss von bis zu 6 Zusatzanzeigen (0.96" OLED LCDs) an ein System. Die Daten für diese Anzeigen können entweder über den CAN-Bus (1x) oder über externe Sensor-Eingänge bezogen werden. Es stehen verschiedene externe Sensor-Eingänge zur Verfügung, darunter Batterie Spannung und Öldruck. Jede der 6 Anzeigen kann separat angesteuert werden und die Daten können über Tasten auf der Platine oder externe Tasten umgeschaltet werden.
 
 # Anschluss Übersicht
 Digitale Zusatzanzeigen (0.96" OLED LCDs):
